@@ -1,0 +1,5 @@
+alias ll='ls -la'
+alias cn='cat -n'
+alias agi='sudo apt-get install'
+alias agp='sudo apt-get purge'
+alias upd='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove'
